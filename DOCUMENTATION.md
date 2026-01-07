@@ -14,7 +14,7 @@ The purpose of this project was to showcase OOP principles in action and learn s
 
 ## 1. Architecture Overview
 
-[Overview](/docs_images/architecture_overview_diagram.png)
+![Overview](/docs_images/architecture_overview_diagram.png)
 
 1. **Java for Domain Models**: All business entities (Driver, Team, Car, Track) are Java classes to demonstrate OOP concepts
 2. **Kotlin for UI**: Compose Desktop provides modern, declarative UI
@@ -28,7 +28,7 @@ The purpose of this project was to showcase OOP principles in action and learn s
 
 ### Complete Class Diagram
 
-[UML](/docs_images/model_uml_diagram.png)
+![UML](/docs_images/model_uml_diagram.png)
 
 ### OOP Concepts Highlighted
 
@@ -46,7 +46,7 @@ The purpose of this project was to showcase OOP principles in action and learn s
 
 ### Entity-Relationship Diagram
 
-[ERD](/docs_images/er_diagram.png)
+![ERD](/docs_images/er_diagram.png)
 
 ### Database Operations
 
@@ -91,7 +91,7 @@ The `DataStore` is a **singleton object** that acts as the single source of trut
 
 ### How DataStore Works
 
-[DataStore Pattern](/docs_images/datastore_pattern.png)
+![DataStore Pattern](/docs_images/datastore_pattern.png)
 
 ### Reactive UI Updates
 
@@ -115,12 +115,12 @@ fun TeamManagementScreen() {
 
 ## 5. Race Simulation State Machine
 
-[Race Simulator Part 1](/docs_images/rs_part1.png)
-[Race Simulator Part 2](/docs_images/rs_part2.png)
+![Race Simulator Part 1](/docs_images/rs_part1.png)
+![Race Simulator Part 2](/docs_images/rs_part2.png)
 
 ### Lap Time Calculation
 
-[Lap Time Diagram](/docs_images/laptime_calc.png)
+![Lap Time Diagram](/docs_images/laptime_calc.png)
 
 ---
 
@@ -139,9 +139,9 @@ fun TeamManagementScreen() {
 
 ## 7. Screenshots
 
-[Guest Screen](/screenshots/guest_screen.png)
-[Admin Home](/screenshots/admin_dash.png)
-[Team Screen Car](/screenshots/team_screen_car.png)
-[Team Screen Drivers](/screenshots/team_screen_drivers.png)
-[Race Setup](/screenshots/race_setup.png)
-[Live Race](/screenshots/live_race.png)
+![Guest Screen](/screenshots/guest_screen.png)
+![Admin Home](/screenshots/admin_dash.png)
+![Team Screen Car](/screenshots/team_screen_car.png)
+![Team Screen Drivers](/screenshots/team_screen_drivers.png)
+![Race Setup](/screenshots/race_setup.png)
+![Live Race](/screenshots/live_race.png)
