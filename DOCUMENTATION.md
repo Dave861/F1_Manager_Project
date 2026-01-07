@@ -139,3 +139,9 @@ fun TeamManagementScreen() {
 
 ## 7. Screenshots
 
+[Guest Screen](/screenshots/guest_screen.png)
+[Admin Home](/screenshots/admin_dash.png)
+[Team Screen Car](/screenshots/team_screen_car.png)
+[Team Screen Drivers](/screenshots/team_screen_drivers.png)
+[Race Setup](/screenshots/race_setup.png)
+[Live Race](/screenshots/live_race.png)
